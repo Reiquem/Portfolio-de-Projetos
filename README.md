@@ -8,7 +8,7 @@ Um site usado para compartilhar projetos de todos os tipos.
 </p>
 <p href="href="https://nuxt.com/">
   <img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="16" weight="16">
-  <a href="href="https://nuxt.com/">Nuxt</a>
+  <a href="https://nuxt.com/">Nuxt</a>
 </p>
 <p href="https://pinia.vuejs.org/">
   <img src="https://pinia.vuejs.org/logo.svg"  width="16" weight="16">
@@ -16,7 +16,7 @@ Um site usado para compartilhar projetos de todos os tipos.
 </p>
 <p href="https://nuxt.com/"> 
   <img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="16" weight="16">
-   <a href="https://nuxt.com/"> NuxtUI </a>
+   <a href="https://ui.nuxt.com/"> NuxtUI </a>
 </p>
 <p href="http://ldapjs.org/client.html"> 
   <img src="https://img.icons8.com/?size=64&id=SEjhbYnnL7Ft&format=png"  width="16" weight="16">
