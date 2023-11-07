@@ -47,5 +47,7 @@ Um site usado para compartilhar projetos de todos os tipos.
 
 Copyright © 2023 <a href="cbpf.br">Centro Brasileiro de Pesquisas Físicas</a><br>
 Copyright © 2023 <a href="https://github.com/reiquem" >Diogo 'Reiquem' Lima </a> <br>
+Copyright © 2023 <a href="https://github.com/rafinhacuri" >Rafael Curi </a> <br>
+
 This project is under <a href="https://github.com/Reiquem/Portfolio-de-Projetos/blob/main/LICENSE">MIT license </a>
 
