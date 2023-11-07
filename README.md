@@ -42,6 +42,10 @@ Um site usado para compartilhar projetos de todos os tipos.
   <img src="https://camo.githubusercontent.com/7e0384722971d6fc6c2539adab1ee8c2d9b5ed864ec57459283eb3b86b3a87d0/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f7069782e69656d6f6a692e636f6d2f696d616765732f656d6f6a692f6170706c652f696f732d31312f3235362f637261796f6e2e706e67"  width="16" weight="16">
   <a href="https://github.com/jimp-dev/jimp">  Jimp </a>
 </p>
+<p>
+  <img src="https://avatars.githubusercontent.com/u/6019716?s=48&v=4"  width="16" weight="16">
+   <a href="https://eslint.org/"> ESLint </a>
+</p>
 
 # :pencil: License
 
